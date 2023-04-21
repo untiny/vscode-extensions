@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "cweijan.vscode-mysql-client2",
+    "esbenp.prettier-vscode",
+    "cweijan.vscode-typora",
+    "bradlc.vscode-tailwindcss",
+    "ritwickdey.liveserver",
+    "usernamehw.errorlens",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "github.codespaces",
+    "wix.vscode-import-cost"
+  ]
+}
